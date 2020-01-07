@@ -1,0 +1,16 @@
+[07-Sep-2019 11:17:33 Australia/Brisbane] PHP Notice:  Undefined variable: lname in /home2/cassa136/uida.co/php/create-csv.php on line 23
+[07-Sep-2019 11:17:33 Australia/Brisbane] PHP Notice:  Undefined variable: phone in /home2/cassa136/uida.co/php/create-csv.php on line 23
+[07-Sep-2019 11:17:56 Australia/Brisbane] PHP Notice:  Undefined variable: lname in /home2/cassa136/uida.co/php/create-csv.php on line 23
+[07-Sep-2019 11:17:56 Australia/Brisbane] PHP Notice:  Undefined variable: phone in /home2/cassa136/uida.co/php/create-csv.php on line 23
+[07-Sep-2019 11:32:31 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}' in /home2/cassa136/uida.co/index.php on line 60
+[07-Sep-2019 11:32:32 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}' in /home2/cassa136/uida.co/index.php on line 60
+[07-Sep-2019 11:34:00 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}' in /home2/cassa136/uida.co/index.php on line 60
+[07-Sep-2019 11:34:01 Australia/Brisbane] PHP Parse error:  syntax error, unexpected '}' in /home2/cassa136/uida.co/index.php on line 60
+[07-Sep-2019 11:34:49 Australia/Brisbane] PHP Parse error:  syntax error, unexpected end of file in /home2/cassa136/uida.co/index.php on line 104
+[07-Sep-2019 11:34:50 Australia/Brisbane] PHP Parse error:  syntax error, unexpected end of file in /home2/cassa136/uida.co/index.php on line 104
+[07-Sep-2019 11:34:53 Australia/Brisbane] PHP Parse error:  syntax error, unexpected end of file in /home2/cassa136/uida.co/index.php on line 104
+[07-Sep-2019 11:36:01 Australia/Brisbane] PHP Parse error:  syntax error, unexpected end of file in /home2/cassa136/uida.co/index.php on line 104
+[07-Sep-2019 11:37:20 Australia/Brisbane] PHP Parse error:  syntax error, unexpected end of file in /home2/cassa136/uida.co/index.php on line 104
+[07-Sep-2019 11:48:50 Australia/Brisbane] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home2/cassa136/uida.co/index.php on line 74
+[07-Sep-2019 11:50:52 Australia/Brisbane] PHP Notice:  Undefined variable: error in /home2/cassa136/uida.co/index.php on line 63
+[07-Sep-2019 11:51:01 Australia/Brisbane] PHP Notice:  Undefined variable: error in /home2/cassa136/uida.co/index.php on line 63
