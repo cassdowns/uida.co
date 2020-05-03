@@ -35,12 +35,14 @@ body {
 
 .colours {
     display: grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-gap: 50px;
+    max-width: 1000px;
   }
 
 .circle {
-    max-width: 200px; 
-    max-height: 200px; 
+    width: 100px; 
+    height: 100px; 
     border-radius: 50%;
     background-color: #fff;
 }
