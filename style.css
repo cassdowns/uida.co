@@ -241,6 +241,26 @@ strong {
     font-style: normal;
 }
 
+.type h2 {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.type p {
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    font-weight: 400;
+    font-style: normal;
+}
+
 /* Forms */
 
 #emailCap {
