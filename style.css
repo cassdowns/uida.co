@@ -31,9 +31,16 @@ body {
     vertical-align: text-top;
 }
 
-#ebcomp img {
-    max-width: 100%;
+.colours {
+    max-width: 10%;
+    display: flex;
 }
+
+.colours > div {
+    flex: 1;
+    padding: 20px 24px 20px 0px;
+}
+
 
 #header {
     width: 100%;
