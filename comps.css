@@ -149,17 +149,21 @@ h4 {
 }
 
 h5 {
-    color: #ABAAAA;
-    font-size: 12px;
-	line-height: 16px;
-    font-family: 'Lexend Deca', sans-serif;
+    color: #01FFB3;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
 }
 
 h6 {
     color: #6E6D6D;
-    font-size: 14px;
-    line-height: 0px;
+    font-size: 16px;
+    letter-spacing: 0px;
+    line-height: 1.2;
+    font-weight: 400;
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
