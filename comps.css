@@ -97,6 +97,7 @@ body {
 
 #codeyBoys {
     font-family: Courier, 'New Courier', monospace;
+    color: #01FFB3;
     font-size: 12px;
     padding: 24px;
     height: auto;
@@ -104,7 +105,7 @@ body {
     -moz-border-radius: 5px;
     -webkit-border-radius: 5px;
     margin: 1em 0;
-    background-color: #022A33;
+    background-color: #0D0D0D;
 }
 
 /* Fonts */
