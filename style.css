@@ -33,6 +33,10 @@ body {
     vertical-align: text-top;
 }
 
+.colours {
+    display: grid;
+  }
+
 .circle {
     max-width: 200px; 
     max-height: 200px; 
