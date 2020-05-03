@@ -62,6 +62,10 @@ body {
     width: 20%;
 }
 
+#type {
+    max-width: 1000px;
+}
+
 .logo a:hover {
     position: inherit;
     color: #fff;
