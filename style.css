@@ -31,6 +31,14 @@ body {
     vertical-align: text-top;
 }
 
+#nav {
+    padding-left: 16px;
+}
+
+#nav a {
+    color: #00FFB3;
+}
+
 #header {
     width: 100%;
     height: 152px;
