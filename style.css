@@ -41,6 +41,12 @@ body {
     padding: 20px 24px 20px 0px;
 }
 
+.circle {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 100px;
+}
+
 
 #header {
     width: 100%;
