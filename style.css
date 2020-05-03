@@ -150,7 +150,9 @@ h4 {
 }
 
 h5 {
-    color: #fff;
+    color: #ABAAAA;
+    font-size: 12px;
+	line-height: 16px;
     font-family: 'Lexend Deca', sans-serif;
     margin: 0;
 }
